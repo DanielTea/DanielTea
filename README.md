@@ -15,18 +15,14 @@ I build AI-powered tools and automation systems. My focus is on making AI agents
 
 | Project | Description |
 |---------|-------------|
-| [candidate-deepscan](https://github.com/DanielTea/candidate-deepscan) | AI-powered candidate research tool with OSINT capabilities |
 | [graphiti](https://github.com/DanielTea/graphiti) | Build real-time knowledge graphs for AI agents |
 | [browser-use](https://github.com/DanielTea/browser-use) | Make websites accessible for AI agents |
-| [agent-skills](https://github.com/DanielTea/agent-skills) | Collection of skills for AI agents like Claude Code |
 
 ### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![HCL](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 **AI/ML:** TensorFlow, PyTorch, LangChain, OpenAI, Anthropic  
 **Data:** PostgreSQL, Neo4j, Pandas, NumPy  
