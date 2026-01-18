@@ -31,7 +31,8 @@ I build AI-powered tools and automation systems. My focus is on making AI agents
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-tremer)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://www.controlf.io)
+[![Website](https://img.shields.io/badge/danieltremer.com-000000?style=flat&logo=About.me&logoColor=white)](https://www.danieltremer.com)
+[![control-f](https://img.shields.io/badge/control--f.io-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://www.controlf.io)
 
 ---
 
