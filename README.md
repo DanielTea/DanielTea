@@ -34,8 +34,3 @@ I build AI-powered tools and automation systems. My focus is on making AI agents
 [![Website](https://img.shields.io/badge/danieltremer.com-000000?style=flat&logo=About.me&logoColor=white)](https://www.danieltremer.com)
 [![control-f](https://img.shields.io/badge/control--f.io-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://www.controlf.io)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielTea&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
