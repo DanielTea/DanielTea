@@ -1,6 +1,6 @@
 ## Hi there, I'm Daniel Tremer
 
-**Managing Director at [control-f GmbH](https://www.controlf.io)** | Berlin, Germany
+**Managing Director at [control-f GmbH](https://www.control-f.io)** | Berlin, Germany
 
 I build AI-powered tools and automation systems. My focus is on making AI agents practical and useful for real-world applications.
 
